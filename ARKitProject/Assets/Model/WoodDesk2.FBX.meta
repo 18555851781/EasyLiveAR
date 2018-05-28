@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: df7be88dbd4134cf7b878482d8f12389
+timeCreated: 1524735420
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: archmodels53_19_01
+    100002: archmodels53_19_015
+    100004: archmodels53_19_016
+    100006: archmodels53_19_018
+    100008: archmodels53_19_019
+    100010: archmodels53_19_020
+    100012: archmodels53_19_021
+    100014: archmodels53_19_022
+    100016: archmodels53_19_04
+    100018: archmodels53_19_13
+    100020: Box007
+    100022: Box008
+    100024: Circle007
+    100026: Circle008
+    100028: Rectangle164
+    100030: //RootNode
+    100032: "\u3000\uE813\uE811"
+    100034: "\u5BF9\u8C61004"
+    100036: "\u5BF9\u8C61005"
+    100038: "\u5BF9\u8C61008"
+    100040: "\u5BF9\u8C61009"
+    100042: "\u7EC4019"
+    100044: "\u7EC4027"
+    100046: "\u7EC4028"
+    100048: "\uE814\uE812"
+    400000: archmodels53_19_01
+    400002: archmodels53_19_015
+    400004: archmodels53_19_016
+    400006: archmodels53_19_018
+    400008: archmodels53_19_019
+    400010: archmodels53_19_020
+    400012: archmodels53_19_021
+    400014: archmodels53_19_022
+    400016: archmodels53_19_04
+    400018: archmodels53_19_13
+    400020: Box007
+    400022: Box008
+    400024: Circle007
+    400026: Circle008
+    400028: Rectangle164
+    400030: //RootNode
+    400032: "\u3000\uE813\uE811"
+    400034: "\u5BF9\u8C61004"
+    400036: "\u5BF9\u8C61005"
+    400038: "\u5BF9\u8C61008"
+    400040: "\u5BF9\u8C61009"
+    400042: "\u7EC4019"
+    400044: "\u7EC4027"
+    400046: "\u7EC4028"
+    400048: "\uE814\uE812"
+    2100000: "m\u6728\u5730\u677F\u6A21\u7CCA\u53CD\u5C04"
+    2100002: "\u9ED1\u8272\u76AE\u9769"
+    2300000: archmodels53_19_01
+    2300002: archmodels53_19_015
+    2300004: archmodels53_19_018
+    2300006: archmodels53_19_019
+    2300008: archmodels53_19_020
+    2300010: archmodels53_19_021
+    2300012: archmodels53_19_022
+    2300014: archmodels53_19_04
+    2300016: Box007
+    2300018: Box008
+    2300020: Circle007
+    2300022: Circle008
+    2300024: Rectangle164
+    2300026: "\u5BF9\u8C61004"
+    2300028: "\u5BF9\u8C61005"
+    2300030: "\u5BF9\u8C61008"
+    2300032: "\u5BF9\u8C61009"
+    3300000: archmodels53_19_01
+    3300002: archmodels53_19_015
+    3300004: archmodels53_19_018
+    3300006: archmodels53_19_019
+    3300008: archmodels53_19_020
+    3300010: archmodels53_19_021
+    3300012: archmodels53_19_022
+    3300014: archmodels53_19_04
+    3300016: Box007
+    3300018: Box008
+    3300020: Circle007
+    3300022: Circle008
+    3300024: Rectangle164
+    3300026: "\u5BF9\u8C61004"
+    3300028: "\u5BF9\u8C61005"
+    3300030: "\u5BF9\u8C61008"
+    3300032: "\u5BF9\u8C61009"
+    4300000: "\u5BF9\u8C61008"
+    4300002: Rectangle164
+    4300004: archmodels53_19_015
+    4300006: archmodels53_19_04
+    4300008: archmodels53_19_01
+    4300010: "\u5BF9\u8C61009"
+    4300012: archmodels53_19_018
+    4300014: archmodels53_19_019
+    4300016: archmodels53_19_020
+    4300018: archmodels53_19_021
+    4300020: archmodels53_19_022
+    4300022: Box007
+    4300024: Circle007
+    4300026: Circle008
+    4300028: Box008
+    4300030: "\u5BF9\u8C61004"
+    4300032: "\u5BF9\u8C61005"
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

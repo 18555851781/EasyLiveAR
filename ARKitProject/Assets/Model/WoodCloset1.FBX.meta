@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: fb7455a7887b64a43a22fdcee9e74867
+timeCreated: 1524735424
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Rectangle001
+    100002: Rectangle004
+    100004: Rectangle005
+    100006: Rectangle006
+    100008: Rectangle013
+    100010: Rectangle014
+    100012: Rectangle015
+    100014: Rectangle030
+    100016: Rectangle031
+    100018: Rectangle034
+    100020: Rectangle035
+    100022: Rectangle036
+    100024: Rectangle037
+    100026: Rectangle038
+    100028: Rectangle039
+    100030: Rectangle090
+    100032: Rectangle091
+    100034: Rectangle092
+    100036: Rectangle093
+    100038: Rectangle094
+    100040: Rectangle095
+    100042: Rectangle096
+    100044: Rectangle097
+    100046: Rectangle098
+    100048: Rectangle099
+    100050: Rectangle100
+    100052: Rectangle101
+    100054: //RootNode
+    100056: "\u3000\uE813\uE811"
+    100058: "\u7EC4001"
+    100060: "\u7EC4002"
+    100062: "\u7EC4010"
+    100064: "\u7EC4012"
+    100066: "\uE814\uE812"
+    400000: Rectangle001
+    400002: Rectangle004
+    400004: Rectangle005
+    400006: Rectangle006
+    400008: Rectangle013
+    400010: Rectangle014
+    400012: Rectangle015
+    400014: Rectangle030
+    400016: Rectangle031
+    400018: Rectangle034
+    400020: Rectangle035
+    400022: Rectangle036
+    400024: Rectangle037
+    400026: Rectangle038
+    400028: Rectangle039
+    400030: Rectangle090
+    400032: Rectangle091
+    400034: Rectangle092
+    400036: Rectangle093
+    400038: Rectangle094
+    400040: Rectangle095
+    400042: Rectangle096
+    400044: Rectangle097
+    400046: Rectangle098
+    400048: Rectangle099
+    400050: Rectangle100
+    400052: Rectangle101
+    400054: //RootNode
+    400056: "\u3000\uE813\uE811"
+    400058: "\u7EC4001"
+    400060: "\u7EC4002"
+    400062: "\u7EC4010"
+    400064: "\u7EC4012"
+    400066: "\uE814\uE812"
+    2100000: "m\u6728\u5730\u677F\u6A21\u7CCA\u53CD\u5C04"
+    2100002: 'Material #0'
+    2300000: Rectangle001
+    2300002: Rectangle004
+    2300004: Rectangle005
+    2300006: Rectangle006
+    2300008: Rectangle013
+    2300010: Rectangle014
+    2300012: Rectangle015
+    2300014: Rectangle030
+    2300016: Rectangle031
+    2300018: Rectangle034
+    2300020: Rectangle035
+    2300022: Rectangle036
+    2300024: Rectangle037
+    2300026: Rectangle038
+    2300028: Rectangle039
+    2300030: Rectangle090
+    2300032: Rectangle091
+    2300034: Rectangle092
+    2300036: Rectangle093
+    2300038: Rectangle094
+    2300040: Rectangle095
+    2300042: Rectangle096
+    2300044: Rectangle097
+    2300046: Rectangle098
+    2300048: Rectangle099
+    2300050: Rectangle100
+    2300052: Rectangle101
+    3300000: Rectangle001
+    3300002: Rectangle004
+    3300004: Rectangle005
+    3300006: Rectangle006
+    3300008: Rectangle013
+    3300010: Rectangle014
+    3300012: Rectangle015
+    3300014: Rectangle030
+    3300016: Rectangle031
+    3300018: Rectangle034
+    3300020: Rectangle035
+    3300022: Rectangle036
+    3300024: Rectangle037
+    3300026: Rectangle038
+    3300028: Rectangle039
+    3300030: Rectangle090
+    3300032: Rectangle091
+    3300034: Rectangle092
+    3300036: Rectangle093
+    3300038: Rectangle094
+    3300040: Rectangle095
+    3300042: Rectangle096
+    3300044: Rectangle097
+    3300046: Rectangle098
+    3300048: Rectangle099
+    3300050: Rectangle100
+    3300052: Rectangle101
+    4300000: Rectangle004
+    4300002: Rectangle006
+    4300004: Rectangle005
+    4300006: Rectangle001
+    4300008: Rectangle091
+    4300010: Rectangle092
+    4300012: Rectangle093
+    4300014: Rectangle090
+    4300016: Rectangle013
+    4300018: Rectangle014
+    4300020: Rectangle015
+    4300022: Rectangle094
+    4300024: Rectangle095
+    4300026: Rectangle096
+    4300028: Rectangle097
+    4300030: Rectangle098
+    4300032: Rectangle099
+    4300034: Rectangle100
+    4300036: Rectangle101
+    4300038: Rectangle038
+    4300040: Rectangle037
+    4300042: Rectangle039
+    4300044: Rectangle036
+    4300046: Rectangle034
+    4300048: Rectangle035
+    4300050: Rectangle031
+    4300052: Rectangle030
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
